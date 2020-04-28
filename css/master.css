@@ -13,24 +13,25 @@ iframe {
   height: 400px;
 }
 
+
 .first {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 45%;
   transform: translate(-50%, -50%);
 }
 
 .second {
   position: absolute;
   top: 50%;
-  left: 30%;
+  left: 25%;
   transform: translate(-50%, -50%);
 }
 
 .third {
   position: absolute;
   top: 50%;
-  left: 70%;
+  left: 65%;
   transform: translate(-50%, -50%);
 }
 
